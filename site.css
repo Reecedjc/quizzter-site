@@ -111,13 +111,9 @@ img {
   width: 46px;
   height: 46px;
   border-radius: 16px;
-  display: grid;
-  place-items: center;
+  display: block;
+  object-fit: cover;
   background: linear-gradient(135deg, var(--cyan-400), var(--teal-400));
-  color: var(--ink-950);
-  font-family: "Space Grotesk", sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.08em;
   box-shadow: 0 16px 28px rgba(0, 151, 194, 0.26);
 }
 
