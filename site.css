@@ -158,6 +158,12 @@ img {
   outline: none;
 }
 
+.nav a.is-active {
+  background: linear-gradient(135deg, rgba(8, 22, 51, 0.94), rgba(13, 42, 89, 0.94));
+  color: #fff;
+  box-shadow: 0 12px 24px rgba(8, 22, 51, 0.16);
+}
+
 .cta-link {
   background: linear-gradient(135deg, var(--ink-800), var(--ink-950));
   color: #fff !important;
