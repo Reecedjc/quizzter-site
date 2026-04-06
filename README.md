@@ -8,9 +8,9 @@ This folder contains a simple static website for the app:
 - `delete-account.html`: account deletion instructions
 - `site.css`: shared styling
 
-Before publishing:
+Deployment notes:
 
-- Replace `support@yourdomain.com` in `support.html` with your real support email.
+- The support address is `hello@quizzter.com`.
 - Host the contents of this folder on your public domain or static hosting provider.
 - Use the hosted URLs in your App Store, Google Play, Apple Sign In, Google Sign-In, and privacy disclosures as needed.
 
