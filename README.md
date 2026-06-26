@@ -6,6 +6,7 @@ This folder contains a simple static website for the app:
 - `privacy.html`: privacy policy
 - `support.html`: support URL page
 - `delete-account.html`: account deletion instructions
+- `download/index.html`: App Store redirect for `/download`
 - `app-ads.txt`: AdMob app authorization file
 - `site.css`: shared styling
 
